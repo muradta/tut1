@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    min-height: 160vh;
+    background-color: white;
+   /* background-image: url('bg2.jpeg');*/
+    background-repeat: no-repeat;
+}
+
+.logo{
+    width: 40vh;
+    height: 15vh;
+    float: left;
+}
+
+.logo:hover{
+    opacity: 0.7;
+ }
